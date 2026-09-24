@@ -91,16 +91,6 @@ Customers with no children in the `Kidhome` field have materially higher average
 - Missing income needs explicit handling in production models.
 - Revalidate the findings on current data before operational use.
 
-## Key business findings
-- 2,240 customers and 29 original columns.
-- Overall campaign response rate: 14.91%.
-- Average customer spend: 605.80; median: 396.00, showing a right-skewed customer-value distribution.
-- Wines are the largest spending category at 680,816, followed by meat products at 373,968.
-- Store purchases lead channel volume with 12,970 purchases, followed by web and catalog.
-- Customers with 0–30 days recency have a 23.9% response rate, versus only 5.6% for customers at 91–120 days.
-- Customers with no previous campaign acceptance have an 8.2% current response rate, compared with 31.1% after one previous acceptance and 50.6% after two.
-- PhD customers average approximately 672.41 in spend versus 619.90 for Graduation customers.
-- Income and purchasing activity have meaningful positive associations with total customer spend.
 
 ## Conclusion
 The dataset supports a shift from broad marketing toward **value-, recency- and engagement-based segmentation**. The strongest practical signals are customer spend, purchase channel, recency and prior campaign engagement. The next maturity step is an RFM + propensity framework validated with out-of-sample data and controlled experimentation.
